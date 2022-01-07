@@ -1,8 +1,12 @@
 ### Hi there 👋
 
-I'm Max Zhuk (Максим Жук) .
+![](https://komarev.com/ghpvc/?username=ZhukMax&color=green)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=Linkedin)](https://www.linkedin.com/in/zhukmaxim/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/zhukmax)
 
-- 🍒 Developer at Reksoft
+I'm Max Zhuk (Максим Жук)
+
+- 🍒 Senior Software Engineer at [Reksoft](https://www.reksoft.ru/)
 - 🍑 My favorite languages are php and sql
 - 🔭 I’m currently working on smsc v2 (free time)
 - 📫 How to reach me: zhukmax@ya.ru
