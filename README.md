@@ -4,7 +4,7 @@
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=Linkedin)](https://www.linkedin.com/in/zhukmaxim/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/zhukmax)
 
-I'm Max Zhuk (Максим Жук)
+I'm Max Zhuk
 
 - 🍒 Senior Software Engineer at [Reksoft](https://www.reksoft.ru/)
 - 🍑 My favorite languages are php and sql
