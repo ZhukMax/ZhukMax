@@ -6,10 +6,10 @@
 
 I'm Max Zhuk
 
-- 🍒 Senior Software Engineer at [Reksoft](https://www.reksoft.ru/)
+- 🍒 Senior Software Engineer at [Reksoft International](https://www.reksoft.com/)
 - 🍑 My favorite languages are php and sql
 - 🔭 I’m currently working on smsc v2 (free time)
-- 📫 How to reach me: zhukmax@ya.ru
+- 📫 How to reach me: mail@zhukmax.com
 
 <!--
 **ZhukMax/ZhukMax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
