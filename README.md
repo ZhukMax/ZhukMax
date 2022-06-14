@@ -8,7 +8,7 @@ I'm Max Zhuk
 
 - 🍒 Senior Software Engineer at [Reksoft International](https://www.reksoft.com/)
 - 🍑 My favorite languages are php and sql
-- 🔭 I’m currently working on smsc v2 (free time)
+- 🔭 I’m currently working on Aquaboy UI kit (free time)
 - 📫 How to reach me: mail@zhukmax.com
 
 <!--
