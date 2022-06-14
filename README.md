@@ -7,7 +7,7 @@
 I'm Max Zhuk
 
 - 🍒 Senior Software Engineer at [Reksoft International](https://www.reksoft.com/)
-- 🍑 My favorite languages are php and sql
+- 🍑 My favorite languages are php, typescript and sql
 - 🔭 I’m currently working on Aquaboy UI kit (free time)
 - 📫 How to reach me: mail@zhukmax.com
 
