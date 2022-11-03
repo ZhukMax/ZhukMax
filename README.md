@@ -3,6 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=ZhukMax&color=green)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=Linkedin)](https://www.linkedin.com/in/zhukmaxim/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/zhukmax)
+[![Leetcode Badge](https://img.shields.io/badge/-LeetCode-orange?style=flat&logo=Leetcode&logoColor=white)](https://leetcode.com/zhukmax/)
 
 I'm Max Zhuk
 
