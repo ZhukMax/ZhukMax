@@ -9,7 +9,11 @@ I'm Max Zhuk
 
 - 🍒 Senior Software Engineer at [Reksoft International](https://www.reksoft.com/)
 - 🍑 My favorite languages are php, typescript and sql
-- 🔭 I’m currently working on Aquaboy UI kit (free time)
+- 🧑🏼‍💻 I have a blogs:
+
+  [![DEVto Badge](https://img.shields.io/static/v1?label=dev.to&message=zhukmax&color=green)](https://dev.to/zhukmax)
+  [![Habr Badge](https://img.shields.io/static/v1?label=habr&message=@zm_llill&color=blue)](https://habr.com/ru/users/zm_llill/)
+- 🔭 I’m currently working on different projects
 - 📫 How to reach me: mail@zhukmax.com
 
 <!--
