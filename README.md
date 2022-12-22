@@ -7,13 +7,14 @@
 
 I'm Max Zhuk
 
-- 🍒 Senior Software Engineer at [Reksoft International](https://www.reksoft.com/)
+- 🍒 Senior Software Engineer
 - 🍑 My favorite languages are php, typescript and sql
-- 🧑🏼‍💻 I have a blogs:
+- 🧑🏼‍💻 I have the blogs:
 
   [![DEVto Badge](https://img.shields.io/static/v1?label=dev.to&message=zhukmax&color=green)](https://dev.to/zhukmax)
   [![Habr Badge](https://img.shields.io/static/v1?label=habr&message=@zm_llill&color=blue)](https://habr.com/ru/users/zm_llill/)
-- 🔭 I’m currently working on different projects
+  [![Hachernoon Badge](https://img.shields.io/static/v1?label=hackernoon&message=@zhukmax&color=orange)](https://hackernoon.com/u/zhukmax)
+- 🔭 I’m currently working on Laravel based online store
 - 📫 How to reach me: mail@zhukmax.com
 
 <!--
