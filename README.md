@@ -14,7 +14,9 @@ I'm Max Zhuk
   [![DEVto Badge](https://img.shields.io/static/v1?label=dev.to&message=zhukmax&color=green)](https://dev.to/zhukmax)
   [![Habr Badge](https://img.shields.io/static/v1?label=habr&message=@zm_llill&color=blue)](https://habr.com/ru/users/zm_llill/)
   [![Hachernoon Badge](https://img.shields.io/static/v1?label=hackernoon&message=@zhukmax&color=orange)](https://hackernoon.com/u/zhukmax)
-- 🔭 I’m currently working on Laravel based online store
+  
+- I like [read 📖 books 📚](https://rb.gy/tywjl9)
+- 🔭 I’m currently working on Symfony based CRM
 - 📫 How to reach me: mail@zhukmax.com
 
 <!--
