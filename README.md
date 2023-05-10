@@ -16,7 +16,7 @@ I'm Max Zhuk
   [![Hachernoon Badge](https://img.shields.io/static/v1?label=hackernoon&message=@zhukmax&color=orange)](https://hackernoon.com/u/zhukmax)
   
 - I like [read 📖 books 📚](https://rb.gy/tywjl9)
-- 🔭 I’m currently working on Symfony based CRM
+- 🔭 I'm currently working on a book
 - 📫 How to reach me: mail@zhukmax.com
 
 <!--
