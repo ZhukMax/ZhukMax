@@ -17,7 +17,7 @@ I'm Max Zhuk
   [![Patreon Badge](https://img.shields.io/static/v1?label=patreon&message=@zhukmax&color=00acee)](https://www.patreon.com/zhukmax)
   
 - I like [read 📖 books 📚](https://rb.gy/tywjl9)
-- 🔭 I'm currently working on a book
+- 🔭 I'm currently working on a "OOP Patterns Unlocked" book
 - 📫 How to reach me: mail@zhukmax.com
 
 <!--
