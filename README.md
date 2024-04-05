@@ -8,7 +8,7 @@
 I'm Max Zhuk
 
 - 🍒 Senior Software Engineer and a tech writer
-- 🏆 My favorite languages are 🐘 php, typescript and sql
+- 🏆 My favorite languages are 🐘 php, 🦀 rust, typescript and sql
 - 🧑🏼‍💻 I have the blogs:
 
   [![DEVto Badge](https://img.shields.io/static/v1?label=dev.to&message=zhukmax&color=green)](https://dev.to/zhukmax)
