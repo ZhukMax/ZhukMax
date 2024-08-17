@@ -17,7 +17,7 @@ I'm Max Zhuk
   [![Hachernoon Badge](https://img.shields.io/static/v1?label=hackernoon&message=@zhukmax&color=orange)](https://hackernoon.com/u/zhukmax)
   <!--[![Patreon Badge](https://img.shields.io/static/v1?label=patreon&message=@zhukmax&color=00acee)](https://www.patreon.com/zhukmax)-->
   
-- I like [read 📖 books 📚](https://rb.gy/tywjl9)
+- I like read 📖 books 📚
 - 🔭 I'm currently working on [a "OOP Patterns Unlocked" book](https://zhukmax.com/oop-patterns-unlocked/)
 - 📫 How to reach me: mail@zhukmax.com
 
