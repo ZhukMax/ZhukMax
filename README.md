@@ -19,6 +19,6 @@ I'm Max Zhuk
   
 - I like read 📖 books 📚 and travels
 
-# 🇷🇸 🇷🇺 🇫🇮 🇪🇸 🇧🇪 🇧🇬 🇲🇪 
+#  🇷🇸 🇷🇺 🇫🇮 🇪🇸 🇧🇪 🇧🇬 🇲🇪 🇬🇪 🇧🇦 🇦🇲 🇹🇷 🇧🇾
 - 🔭 I'm currently working on [a "OOP Patterns Unlocked" book](https://zhukmax.com/oop-patterns-unlocked/)
 - 📫 How to reach me: mail@zhukmax.com
