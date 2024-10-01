@@ -17,19 +17,9 @@ I'm Max Zhuk
   [![Hachernoon Badge](https://img.shields.io/static/v1?label=hackernoon&message=@zhukmax&color=orange)](https://hackernoon.com/u/zhukmax)
   <!--[![Patreon Badge](https://img.shields.io/static/v1?label=patreon&message=@zhukmax&color=00acee)](https://www.patreon.com/zhukmax)-->
   
-- I like read 📖 books 📚
+- I like read 📖 books 📚 and travels
+
+# [🇷🇸](https://tinyurl.com/47bruubv) [🇷🇺](https://tinyurl.com/3er47zbx)
+
 - 🔭 I'm currently working on [a "OOP Patterns Unlocked" book](https://zhukmax.com/oop-patterns-unlocked/)
 - 📫 How to reach me: mail@zhukmax.com
-
-<!--
-**ZhukMax/ZhukMax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
--  I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
