@@ -23,8 +23,31 @@ I'm Max Zhuk
 <details>
 📚 🤓 📖 <summary>🦉 My Literary Journey</summary>
 
-- Рассказ о семи повешенных - Леонид Андреев
-- Learn English: 300% Faster - Archer
+- "Surely You're Joking, Mr. Feynman!" - Richard Feynman  
+- "Are the Rich Happy?" - Stephen Leacock  
+- "Poems" - Joseph Brodsky  
+- "Animal Farm" - George Orwell  
+- "Utopia for Realists" - Rutger Bregman  
+- "Brave New World" - Aldous Huxley  
+- "Lost Boy: The True Story of Captain Hook" - Christina Henry  
+- "The Happiness Hormones" - Loretta Graziano Breuning  
+- "The Purple Dress" - O. Henry  
+- "Memorabilia" - Xenophon  
+- "The Life of Our Holy Mother Mary of Egypt" - Saint Sophronius  
+- "The Analects" - Confucius  
+- "The Secret Garden" - Frances Hodgson Burnett  
+- "The Mystery of Manor Hall" - Jane Cammack  
+- "Missing in Sydney" - Andrea M. Hutchinson  
+- "The Path of a Programmer: From 100 to 10,000 a Month" - A. Nikitin, D. Lyapin  
+- "The Adventures of Tom Sawyer" - Mark Twain (corrected from "Sawyers")  
+- "Online Store Without Startup Capital" - T. Shakov  
+- "The 4-Hour Workweek" - Tim Ferriss  
+- "On Introducing Uniformity in Russia" - Kozma Prutkov  
+- "How to Become a Blogger with a Million Followers" - Marina Mogilko  
+- "Rich Dad Poor Dad" - Robert Kiyosaki  
+- "Invasion: A Brief History of Russian Hackers" - Daniil Turovsky  
+- "Memoirs of Stalin’s Former Secretary" - Boris Bazhanov  
+- "Learn English: 300% Faster" - Archer  
 
 </details>
 
