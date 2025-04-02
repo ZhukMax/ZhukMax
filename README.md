@@ -39,7 +39,7 @@ I'm Max Zhuk
 - "The Mystery of Manor Hall" - Jane Cammack  
 - "Missing in Sydney" - Andrea M. Hutchinson  
 - "The Path of a Programmer: From 100 to 10,000 a Month" - A. Nikitin, D. Lyapin  
-- "The Adventures of Tom Sawyer" - Mark Twain (corrected from "Sawyers")  
+- "The Adventures of Tom Sawyer" - Mark Twain
 - "Online Store Without Startup Capital" - T. Shakov  
 - "The 4-Hour Workweek" - Tim Ferriss  
 - "On Introducing Uniformity in Russia" - Kozma Prutkov  
