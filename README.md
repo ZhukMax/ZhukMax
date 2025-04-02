@@ -20,5 +20,14 @@ I'm Max Zhuk
 - I like read 📖 books 📚 and travels
 
 #  🇷🇺 🇧🇾 🇪🇸 🇧🇪 🇫🇮 🇹🇷 🇬🇪 🇦🇲 🇧🇬 🇷🇸 🇧🇦 🇲🇪
-- 🔭 I'm currently working on [a "OOP Patterns Unlocked" book](https://zhukmax.com/oop-patterns-unlocked/)
-- 📫 How to reach me: mail@zhukmax.com
+<details>
+📚 🤓 📖 <summary>🦉 My Literary Journey</summary>
+
+- Рассказ о семи повешенных - Леонид Андреев
+- Learn English: 300% Faster - Archer
+
+</details>
+
+🔭 I'm currently working on [a "OOP Patterns Unlocked" book](https://zhukmax.com/oop-patterns-unlocked/)
+
+📫 How to reach me: mail@zhukmax.com
