@@ -23,6 +23,40 @@ I'm Max Zhuk
 <details>
 📚 🤓 📖 <summary>🦉 My Literary Journey</summary>
 
+- "Living Space" - Isaac Asimov  
+- "The Nose" - Ryūnosuke Akutagawa  
+- "Kurt Cobain" - A. Kurilko  
+- "Ariadne" - Anton Chekhov  
+- "The Rose of Jericho" - Ivan Bunin  
+- "The Government Inspector" - Nikolai Gogol  
+- "The Triumph of Diplomacy" - Arthur Conan Doyle  
+- "15 Steps Away from Panic and Fear" - I. Kachay, P. Fedorenko  
+- "Venerable Paisios of Mount Athos" - [Author not specified]  
+- "The Fiery God of the Marrans" - Alexander Volkov  
+- "The Culture Map" - Erin Meyer  
+- "The Poison Belt" - Arthur Conan Doyle  
+- "Anxious People" - Fredrik Backman  
+- "Morphology of the Folktale" - Vladimir Propp  
+- "Journey to the Center of the Earth" - Jules Verne  
+- "Factfulness" - Hans Rosling  
+- "Gelsomino in the Land of Liars" - Gianni Rodari  
+- "The Lost World" - Arthur Conan Doyle  
+- "Reinventing Organizations" - Frédéric Laloux  
+- "F**k You Money" - Babaykin  
+- "A Dog Called Money" - Bodo Schäfer  
+- "Monday Begins on Saturday" - Arkady and Boris Strugatsky  
+- "Retire at 35" - Babaykin  
+- "The Hobbit, or There and Back Again" - J.R.R. Tolkien  
+- "The Dream of a Ridiculous Man" - Fyodor Dostoevsky  
+- "The Mystery of the Yellow Room" - Gaston Leroux  
+- "Seven Underground Kings" - Alexander Volkov  
+- "Urfin Jus and His Wooden Soldiers" - Alexander Volkov  
+- "The Wizard of the Emerald City" - Alexander Volkov  
+- "Happiness in Tough Times" - Andrew Matthews  
+- "Paper Towns" - John Green  
+- "Sonnets" - William Shakespeare  
+- "On the Country and the World" - Andrei Sakharov  
+- "The Man's Rules" - Mark Manson
 - "Surely You're Joking, Mr. Feynman!" - Richard Feynman  
 - "Are the Rich Happy?" - Stephen Leacock  
 - "Poems" - Joseph Brodsky  
