@@ -23,6 +23,29 @@ I'm Max Zhuk
 <details>
 📚 🤓 📖 <summary>🦉 My Literary Journey</summary>
 
+- "The Ballad of Songbirds and Snakes" - Suzanne Collins  
+- "Mockingjay" - Suzanne Collins  
+- "We'll Defeat Barmaley" - Korney Chukovsky  
+- "Catching Fire" - Suzanne Collins  
+- "The Hunger Games" - Suzanne Collins  
+- "The Richest Man in Babylon" - George S. Clason  
+- "The Sorcerer Ignat and the People" - Victor Pelevin  
+- "My Grandmother Asked Me to Tell You She’s Sorry" - Fredrik Backman  
+- "Machiavelli" - Paul Strathern  
+- "Man’s Search for Meaning" - Viktor E. Frankl 
+- "Around the World in Eighty Days" - Jules Verne  
+- "Vlad III Dracula" - A. Kurilko  
+- "Flow: The Psychology of Optimal Experience" - Mihaly Csikszentmihalyi  
+- "Paris in the Twentieth Century" - Jules Verne  
+- "Dune" - Frank Herbert  
+- "No One Writes to the Colonel" - Gabriel García Márquez 
+- "Emotional Intelligence: Why It Can Matter More Than IQ" - Daniel Goleman  
+- "The Mysterious Island" - Jules Verne  
+- "The Tale of the Origin of Man" - Alexander Men  
+- "The Templars and Other Secret Societies of the Middle Ages" - Thomas Keightley  
+- "A Connecticut Yankee in King Arthur’s Court" - Mark Twain  
+- "The Love for Three Oranges" - Leonid Filatov  
+- "The Cherry Orchard" - Anton Chekhov  
 - "Living Space" - Isaac Asimov  
 - "The Nose" - Ryūnosuke Akutagawa  
 - "Kurt Cobain" - A. Kurilko  
