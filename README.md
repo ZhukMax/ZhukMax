@@ -23,6 +23,36 @@ I'm Max Zhuk
 <details>
 📚 🤓 📖 <summary>🦉 My Literary Journey</summary>
 
+- "Christmas" - Vladimir Nabokov  
+- "A Christmas Carol" - Charles Dickens  
+- "Bicentennial Man" - Isaac Asimov  
+- "Peasant Women" - Anton Chekhov
+- "Guaranteed Pleasure" - Isaac Asimov  
+- "The Man in the High Castle" - Philip K. Dick  
+- "The Suitcase" - Sergei Dovlatov  
+- "War and the Bible" - Saint Nicholas of Serbia  
+- "One Day in the Life of Ivan Denisovich" - Aleksandr Solzhenitsyn  
+- "There Will Come Soft Rains" - Ray Bradbury  
+- "Beasts in the Pit" - Russian Folk Tale  
+- "The Turkish Gambit" - Boris Akunin  
+- "Azazel" - Boris Akunin  
+- "Day of the Oprichnik" - Vladimir Sorokin  
+- "The Good Soldier Švejk" - Jaroslav Hašek  
+- "Go to the Ant" - John Wyndham  
+- "The Lord of the Rings: The Return of the King" - J.R.R. Tolkien  
+- "The Twelfth Statue" - Stanley Ellin  
+- "ZOV 56" - Pavel Filatyev  
+- "The Lord of the Rings: The Two Towers" - J.R.R. Tolkien  
+- "The Man in the Case" - Anton Chekhov  
+- "About Love" - Anton Chekhov  
+- "Breaking Negative Thinking Patterns" - Gitta Jacob  
+- "Tales for Idiots" - Boris Akunin  
+- "And Then There Were None" - Agatha Christie 
+- "The Lord of the Rings: The Fellowship of the Ring" - J.R.R. Tolkien  
+- "A Brief History of Time" - Stephen Hawking  
+- "Monkey King: Journey to the West" - Wu Cheng’en  
+- "Post. Part 2" - Dmitry Glukhovsky  
+- "Post" - Dmitry Glukhovsky  
 - "The Ballad of Songbirds and Snakes" - Suzanne Collins  
 - "Mockingjay" - Suzanne Collins  
 - "We'll Defeat Barmaley" - Korney Chukovsky  
