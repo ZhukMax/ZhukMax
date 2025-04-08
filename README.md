@@ -23,6 +23,43 @@ I'm Max Zhuk
 <details>
 📚 🤓 📖 <summary>🦉 My Literary Journey</summary>
 
+- "Jonathan Livingston Seagull" - Richard Bach  
+- "The Master of Ballantrae" - Robert Louis Stevenson  
+- "By the Sea" - Anna Akhmatova  
+- "Legends and Myths of Ancient Greece" - Nikolay Kuhn  
+- "Mother of Monsters" - Guy de Maupassant  
+- "The Sleeping Princess" - Vasily Zhukovsky  
+- "Resurrection of All the Dead" - Leonid Andreyev  
+- "Agafya" - Anton Chekhov  
+- "The Overcoat" - Nikolai Gogol  
+- "The Christmas Tree and the Wedding" - Fyodor Dostoevsky
+- "The Half-Hour Theory" - David Abramson  
+- "The Ghost Story" - James Fenimore Cooper  
+- "The Final Test" - Robert Sheckley  
+- "The Nightingale and the Rose" - Oscar Wilde  
+- "Great Travelers" - Mikhail Zoshchenko  
+- "On the Benefits of Alcoholism" - Mikhail Bulgakov  
+- "I Am the Door" - Stephen King  
+- "Neighbors" - Anton Chekhov  
+- "Mumu" - Ivan Turgenev  
+- "Treasure Island" - Robert Louis Stevenson  
+- "Taras Bulba" - Nikolai Gogol  
+- "Scarlet Sails" - Alexander Grin  
+- "The Belkin Tales" - Alexander Pushkin  
+- "The Last of the Mohicans" - James Fenimore Cooper  
+- "Feeling Good: The New Mood Therapy" - David D. Burns  
+- "Khor and Kalinych" - Ivan Turgenev  
+- "Where the Paths Diverge" - Jack London  
+- "Ivan Fyodorovich Shponka and His Aunt" - Nikolai Gogol  
+- "The Eve of St. John" - Nikolai Gogol  
+- "Satanism for the Intelligentsia: Religion Without God" - Andrey Kuraev  
+- "The Sentry" - Nikolai Leskov  
+- "The Oval Portrait" - Edgar Allan Poe  
+- "The Cat That Walked by Herself" - Rudyard Kipling  
+- "May Night, or The Drowned Maiden" - Nikolai Gogol  
+- "The Wonderful Doctor" - Alexander Kuprin  
+- "A Christmas Adventure" - Agatha Christie  
+- "Aristotle" - Paul Strathern  
 - "Christmas" - Vladimir Nabokov  
 - "A Christmas Carol" - Charles Dickens  
 - "Bicentennial Man" - Isaac Asimov  
