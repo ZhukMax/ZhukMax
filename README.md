@@ -23,6 +23,21 @@ I'm Max Zhuk
 <details>
 📚 🤓 📖 <summary>🦉 My Literary Journey</summary>
 
+- "The White Bird" - Sholem Aleichem  
+- "A Russian in Europe" - Arkady Averchenko  
+- "The Old Man and the Sea" - Ernest Hemingway  
+- "In a Beautiful and Furious World" - Andrei Platonov  
+- "Belated Flowers" - Anton Chekhov  
+- "Mein Kampf" - Adolf Hitler  
+- "The Smell of Thought" - Robert Sheckley  
+- "A Tale of the Sea" - Fazil Iskander  
+- "Cold Autumn" - Ivan Bunin  
+- "The Wig-Maker" - Nikolai Leskov  
+- "Fat and Thin" - Anton Chekhov  
+- "Three Rubles" - Ivan Bunin  
+- "Robinson Crusoe" - Daniel Defoe  
+- "Breakfast" - W. Somerset Maugham  
+- "Pines" - Ivan Bunin
 - "Jonathan Livingston Seagull" - Richard Bach  
 - "The Master of Ballantrae" - Robert Louis Stevenson  
 - "By the Sea" - Anna Akhmatova  
