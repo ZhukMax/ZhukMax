@@ -23,6 +23,8 @@ I'm Max Zhuk
 <details>
 📚 🤓 📖 <summary>🦉 My Literary Journey</summary>
 
+- "The Grapes of Wrath" - John Steinbeck
+- 
 - "The White Bird" - Sholem Aleichem  
 - "A Russian in Europe" - Arkady Averchenko  
 - "The Old Man and the Sea" - Ernest Hemingway  
