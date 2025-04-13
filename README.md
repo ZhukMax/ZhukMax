@@ -24,7 +24,19 @@ I'm Max Zhuk
 📚 🤓 📖 <summary>🦉 My Literary Journey</summary>
 
 - "The Grapes of Wrath" - John Steinbeck
-- 
+-
+- "The Oddball from Class 6B" - Vladimir Zheleznikov  
+- "Mrs. Korner Pays Up" - Jerome K. Jerome  
+- "Simon" - Narine Abgaryan  
+- "The Marriage" - Nikolai Gogol  
+- "The Queen of Spades" - Alexander Pushkin  
+- "Vacancy" - Keith Laumer  
+- "Diaboliad" - Mikhail Bulgakov  
+- "Defenseless Creature" - Anton Chekhov  
+- "Alice" - Christina Henry  
+- "Genesis" - Prophet Moses  
+- "All Quiet on the Western Front" - Erich Maria Remarque  
+- "A Treatise on the History of Religions" - Mircea Eliade
 - "The White Bird" - Sholem Aleichem  
 - "A Russian in Europe" - Arkady Averchenko  
 - "The Old Man and the Sea" - Ernest Hemingway  
