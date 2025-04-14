@@ -24,7 +24,88 @@ I'm Max Zhuk
 📚 🤓 📖 <summary>🦉 My Literary Journey</summary>
 
 - "The Grapes of Wrath" - John Steinbeck
--
+- 
+- "Leviticus" - Prophet Moses  
+- "The Time Machine" - H. G. Wells  
+- "The Next 100 Years: A Forecast for the 21st Century" - George Friedman  
+- "Fair Margaret" - H. Rider Haggard  
+- "The Satanic Bible" - Anton Szandor LaVey  
+- "The Revolt of the Angels" - Anatole France  
+- "The Bronze Horseman" - Alexander Pushkin  
+- "The Maze Runner" - James Dashner  
+- "Dubrovsky" - Alexander Pushkin  
+- "Montezuma’s Daughter" - H. Rider Haggard  
+- "Bast Shoes" - Ivan Bunin  
+- "Russian Granny" - Vladimir Sorokin  
+- "Perfume: The Story of a Murderer" - Patrick Süskind  
+- "Twilight" - Dmitry Glukhovsky  
+- "A Hero of Our Time" - Mikhail Lermontov  
+- "Moscow to the End of the Line" - Venedikt Erofeev  
+- "Tarzan of the Apes" - Edgar Rice Burroughs  
+- "The Pathfinder, or The Inland Sea" - James Fenimore Cooper  
+- "One Day" - David Nicholls  
+- "The Master and Margarita" - Mikhail Bulgakov  
+- "Autobiography" - Branislav Nušić  
+- "The Twelve Chairs" - Ilya Ilf, Yevgeny Petrov  
+- "Don Quixote" - Miguel de Cervantes  
+- "Exodus" - Prophet Moses  
+- "Christmas Poems" - Joseph Brodsky  
+- "Dictators of Deception" - Daniel Treisman, Sergey Guriev  
+- "My Pushkin" - Marina Tsvetaeva  
+- "Project Hail Mary" - Andy Weir  
+- "Childhood" - Leo Tolstoy  
+- "Under the Dome: Sixth Sense" - Stephen King  
+- "Under the Dome: Falling Pink Stars" - Stephen King  
+- "The Man in the Iron Mask" - Alexandre Dumas  
+- "Mustang-Pacer" - Ernest Seton-Thompson  
+- "Omon Ra" - Victor Pelevin  
+- "The Adventures of Krosh" - Anatoly Rybakov  
+- "The Kindly Ones" - Jonathan Littell  
+- "Lolita" - Vladimir Nabokov  
+- "How to Live Without Working?" - Pierre Wagonsky  
+- "Childhood" - Maxim Gorky  
+- "The Three Musketeers" - Alexandre Dumas  
+- "Heart of a Dog" - Mikhail Bulgakov  
+- "Planet of the People" - Antoine de Saint-Exupéry  
+- "The Headless Horseman" - Mayne Reid  
+- "White Fang" - Jack London  
+- "The Man Who Laughs" - Victor Hugo  
+- "The Meshchora Side" - Konstantin Paustovsky  
+- "Ionych" - Anton Chekhov  
+- "The Black Monk" - Anton Chekhov  
+- "The Adventures of Kalle Blomkvist" - Astrid Lindgren  
+- "Numbers" - Ivan Bunin  
+- "The Lady with the Dog" - Anton Chekhov  
+- "Pepper, Wine, and Wool" - Carlo M. Cipolla  
+- "The Basic Laws of Human Stupidity" - Carlo M. Cipolla  
+- "Melancholy" - Anton Chekhov  
+- "The Ninny" - Anton Chekhov  
+- "The Boy in the White Shirt" - Viktor Astafyev  
+- "Who Can Live Well in Russia" - Nikolay Nekrasov  
+- "Tamango" - Prosper Mérimée  
+- "The Picture of Dorian Gray" - Oscar Wilde  
+- "The Singers" - Ivan Turgenev  
+- "Vasily Tyorkin" - Alexander Tvardovsky  
+- "The Gold Bug" - Edgar Allan Poe  
+- "The Purloined Letter" - Edgar Allan Poe  
+- "Hadji Murat" - Leo Tolstoy  
+- "Woe from Wit" - Alexander Griboyedov  
+- "Spanish Witches" - Prosper Mérimée  
+- "King Solomon’s Mines" - H. Rider Haggard  
+- "The Dunce" - Denis Fonvizin  
+- "Total Recall" - Arnold Schwarzenegger  
+- "Makar Chudra" - Maxim Gorky  
+- "The Ransom of Red Chief" - O. Henry  
+- "The Photograph Where I’m Not" - Viktor Astafyev  
+- "Medical History" - Mikhail Zoshchenko  
+- "The Coward" - Guy de Maupassant  
+- "Gulliver in Lilliput" - Jonathan Swift  
+- "The Honest Thief" - Fyodor Dostoevsky  
+- "The Captain’s Daughter" - Alexander Pushkin  
+- "Lefty" - Nikolai Leskov  
+- "Rip Van Winkle" - Washington Irving  
+- "Svetlana" - Vasily Zhukovsky  
+- "The Gentleman from San Francisco" - Ivan Bunin
 - "The Oddball from Class 6B" - Vladimir Zheleznikov  
 - "Mrs. Korner Pays Up" - Jerome K. Jerome  
 - "Simon" - Narine Abgaryan  
