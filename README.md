@@ -25,6 +25,35 @@ I'm Max Zhuk
 
 - "The Grapes of Wrath" - John Steinbeck
 - 
+- "Caught Red-Handed" - Charles Dickens  
+- "The Emerald" - Alexander Kuprin  
+- "Dialogue About Sand" - Shūgorō Yamamoto  
+- "At the Bottom" - Maxim Gorky  
+- "Twelve" - Alexander Blok  
+- "Oblomov" - Ivan Goncharov  
+- "The Trial of Elizabeth Cree" - Peter Ackroyd  
+- "Lord of the Flies" - William Golding  
+- "The Kremlin School of Negotiation" - Igor Ryzov  
+- "Call and Come Over" - Anatoly Aleksin  
+- "Mtsyri" - Mikhail Lermontov  
+- "Vamireh" - J.-H. Rosny Aîné  
+- "The Cave Lion" - J.-H. Rosny Aîné  
+- "The Quest for Fire" - J.-H. Rosny Aîné  
+- "Ward No. 6" - Anton Chekhov  
+- "The Last Inch" - James Aldridge  
+- "Vasyutka’s Lake" - Viktor Astafyev  
+- "Nevsky Prospect" - Nikolai Gogol  
+- "Tarzan and the Jewels of Opar" - Edgar Rice Burroughs  
+- "After the Ball" - Leo Tolstoy  
+- "The Theory of Castes and Roles" - Alex Krol  
+- "In Bad Company" - Vladimir Korolenko  
+- "Man and Snake" - Ambrose Bierce  
+- "Son of Tarzan" - Edgar Rice Burroughs  
+- "Tarzan and His Beasts" - Edgar Rice Burroughs  
+- "Return to the Jungle" - Edgar Rice Burroughs  
+- "The House Where Hearts Break" - George Bernard Shaw  
+- "How a Peasant Fed Two Generals" - Mikhail Saltykov-Shchedrin  
+- "A Game of Thrones" - George R. R. Martin
 - "Leviticus" - Prophet Moses  
 - "The Time Machine" - H. G. Wells  
 - "The Next 100 Years: A Forecast for the 21st Century" - George Friedman  
