@@ -23,8 +23,16 @@ I'm Max Zhuk
 <details>
 📚 🤓 📖 <summary>🦉 My Literary Journey</summary>
 
+- "Metro 2033" - Dmitry Glukhovsky
 - "The Grapes of Wrath" - John Steinbeck
-- 
+- "The Seven Who Were Hanged" - Leonid Andreyev  
+- "The Red Laugh" - Leonid Andreyev  
+- "Judas Iscariot" - Leonid Andreyev  
+- "How to Manage Your Slaves" - Marcus Sidonius Falx  
+- "Last Love in Constantinople" - Milorad Pavić  
+- "Fantômas" - Marcel Allain, Pierre Souvestre  
+- "The Devil’s Aspect" - Craig Russell  
+- "Egyptian Myths" - A. N. Nikolaeva
 - "A Clash of Kings" - George R. R. Martin  
 - "The Magic Ring" - Andrei Platonov  
 - "The Miserly Knight" - Alexander Pushkin  
