@@ -25,6 +25,29 @@ I'm Max Zhuk
 
 - "The Grapes of Wrath" - John Steinbeck
 - 
+- "A Clash of Kings" - George R. R. Martin  
+- "The Magic Ring" - Andrei Platonov  
+- "The Miserly Knight" - Alexander Pushkin  
+- "The Bailiff" - Ivan Turgenev  
+- "Frankenstein, or The Modern Prometheus" - Mary Shelley  
+- "The Settlement" - Kir Bulychev  
+- "The Fatal Mistake of Church Musicians" - Thomas Hardy  
+- "The Capture of the Redoubt" - Prosper Mérimée  
+- "The Unbearable Lightness of Being" - Milan Kundera  
+- "Under the Deck Awnings" - Jack London  
+- "The Innocence of Father Brown" - G. K. Chesterton  
+- "Tsar Fish" - Viktor Astafyev  
+- "Falling Old Women" - Daniil Kharms  
+- "Chang’s Dreams" - Ivan Bunin  
+- "Old Woman Izergil" - Maxim Gorky  
+- "The Frogling" - Edgar Allan Poe  
+- "The War of the Worlds" - H. G. Wells  
+- "Hamlet" - William Shakespeare  
+- "Poor Liza" - Nikolay Karamzin  
+- "Dwarf Nose" - Wilhelm Hauff  
+- "The Devil and the Deep Sea" - Rudyard Kipling  
+- "The Colour of Magic" - Terry Pratchett  
+- "The Pianist" - Alexander Kuprin
 - "Caught Red-Handed" - Charles Dickens  
 - "The Emerald" - Alexander Kuprin  
 - "Dialogue About Sand" - Shūgorō Yamamoto  
