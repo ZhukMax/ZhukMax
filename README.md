@@ -23,6 +23,7 @@ I'm Max Zhuk
 <details>
 📚 🤓 📖 <summary>🦉 My Literary Journey</summary>
 
+- "Metro 2034" - Dmitry Glukhovsky
 - "Metro 2033" - Dmitry Glukhovsky
 - "The Grapes of Wrath" - John Steinbeck
 - "The Seven Who Were Hanged" - Leonid Andreyev  
