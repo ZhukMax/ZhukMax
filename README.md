@@ -348,6 +348,6 @@ I'm Max Zhuk
 
 </details>
 
-🔭 I'm currently working on [a "OOP Patterns Unlocked" book](https://zhukmax.com/oop-patterns-unlocked/)
+🔭 I'm currently working on [Rust <🦀/> XML Template Engine](https://github.com/ZhukMax/efx)
 
 📫 How to reach me: mail@zhukmax.com
