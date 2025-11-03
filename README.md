@@ -5,6 +5,9 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/zhukmax)
 [![Leetcode Badge](https://img.shields.io/badge/-LeetCode-orange?style=flat&logo=Leetcode&logoColor=white)](https://leetcode.com/zhukmax/)
 
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=zhukmax&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff" />
+
 I'm Max Zhuk
 
 - 🍒 Senior Software Engineer and a tech writer
