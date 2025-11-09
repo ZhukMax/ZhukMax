@@ -15,7 +15,7 @@ I'm Max Zhuk
 - 🌱 My web site: [zhukmax.com](https://zhukmax.com/)
 - 🧑🏼‍💻 I have the blogs:
 
-  [![DEVto Badge](https://img.shields.io/static/v1?label=dev.to&message=zhukmax&color=green)](https://dev.to/zhukmax)
+  [![DEVto Badge](https://img.shields.io/static/v1?label=dev&message=.to&color=green)](https://dev.to/zhukmax)
   [![Habr Badge](https://img.shields.io/static/v1?label=habr&message=.com&color=blue)](https://habr.com/ru/users/zm_llill/)
   [![Hachernoon Badge](https://img.shields.io/static/v1?label=hackernoon&message=@zhukmax&color=orange)](https://hackernoon.com/u/zhukmax)
   <!--[![Patreon Badge](https://img.shields.io/static/v1?label=patreon&message=@zhukmax&color=00acee)](https://www.patreon.com/zhukmax)-->
