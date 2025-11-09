@@ -11,7 +11,7 @@
 I'm Max Zhuk
 
 - 🍒 Senior Software Engineer and a tech writer
-- 🏆 My favorite languages are 🐘 php, 🦀 rust, typescript and sql
+- 🐘 php, 🦀 Rust, TypeScript & SQL
 - 🌱 My web site: [zhukmax.com](https://zhukmax.com/)
 - 🧑🏼‍💻 I have the blogs:
 
